@@ -22,7 +22,7 @@
       max-width: 500px;
     }
 
-    h2 {
+    h1 {
       text-align: center;
       margin-bottom: 20px;
       color: #0f172a;
